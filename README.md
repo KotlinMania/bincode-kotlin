@@ -35,7 +35,7 @@ If you feel generative AI is not a problem, do better.
 
 ```kotlin
 dependencies {
-    implementation("io.github.kotlinmania:bincode-kotlin:0.1.0")
+    implementation("io.github.kotlinmania:bincode-kotlin:0.1.2")
 }
 ```
 
